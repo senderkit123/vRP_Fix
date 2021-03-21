@@ -1,4 +1,4 @@
-= vRP
+= vRP - This version fixed for new server version
 ifdef::env-github[]
 :tip-caption: :bulb:
 :note-caption: :information_source:
